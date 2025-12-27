@@ -16,4 +16,4 @@ print('a')
 <img width="869" height="140" alt="image" src="https://github.com/user-attachments/assets/6fe856a5-4b92-4fca-aff8-e14aacd5af94" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
