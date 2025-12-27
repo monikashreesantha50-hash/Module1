@@ -23,4 +23,4 @@ else:
 <img width="908" height="167" alt="image" src="https://github.com/user-attachments/assets/a94ae525-a121-4036-88b7-01ee6de27165" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
