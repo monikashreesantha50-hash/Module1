@@ -31,4 +31,4 @@ print("d:", d)
 <img width="872" height="204" alt="image" src="https://github.com/user-attachments/assets/39a2d1d2-8580-4fb1-ac0b-660d88526854" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
